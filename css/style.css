@@ -104,7 +104,8 @@
 /*DESKTOP*/
 
 /*Proprieter generale*/
-
+html{
+    scroll-behavior: smooth;
 body {
     background-color: #FFF;
     margin:auto;
